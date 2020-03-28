@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Examples of Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "state": "node ./behavioral/state/main.js",
+    "visitor": "node ./behavioral/visitor/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmagazinepodcast/design-patterns.git"
+  },
+  "keywords": [
+    "design-patterns"
+  ],
+  "author": "Dev Magazine Podcast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devmagazinepodcast/design-patterns/issues"
+  },
+  "homepage": "https://github.com/devmagazinepodcast/design-patterns#readme"
+}
