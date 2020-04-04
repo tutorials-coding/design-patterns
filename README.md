@@ -4,11 +4,12 @@
 
 podcasts: [Part 1](https://youtu.be/oFNCMee50Cg)
 
-| Pattern                           | Run example        |
-| --------------------------------- | ------------------ |
-| [State](./behavioral/state)       | `npm run state`    |
-| [Visitor](./behavioral/visitor)   | `npm run visitor`  |
-| [Iterator](./behavioral/iterator) | `npm run iterator` |
+| Pattern                                     | Run example             |
+| ------------------------------------------- | ----------------------- |
+| [State](./behavioral/state)                 | `npm run state`         |
+| [Visitor](./behavioral/visitor)             | `npm run visitor`       |
+| [Iterator](./behavioral/iterator)           | `npm run iterator`      |
+| [Interpretator](./behavioral/interpretator) | `npm run interpretator` |
 
 ## Creational patterns (TBD)
 

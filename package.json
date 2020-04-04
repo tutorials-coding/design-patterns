@@ -6,7 +6,8 @@
   "scripts": {
     "state": "node ./behavioral/state",
     "visitor": "node ./behavioral/visitor",
-    "iterator": "node ./behavioral/iterator"
+    "iterator": "node ./behavioral/iterator",
+    "interpretator": "node ./behavioral/interpretator"
   },
   "repository": {
     "type": "git",
