@@ -7,7 +7,8 @@
     "state": "node ./behavioral/state",
     "visitor": "node ./behavioral/visitor",
     "iterator": "node ./behavioral/iterator",
-    "interpretator": "node ./behavioral/interpretator"
+    "interpretator": "node ./behavioral/interpretator",
+    "memento": "node ./behavioral/memento"
   },
   "repository": {
     "type": "git",
