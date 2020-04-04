@@ -10,7 +10,7 @@ podcasts: [Part 1](https://youtu.be/oFNCMee50Cg)
 | [Visitor](./behavioral/visitor)   | `npm run visitor`  |
 | [Iterator](./behavioral/iterator) | `npm run iterator` |
 
-## Creational patterns
+## Creational patterns (TBD)
 
 podcasts:
 
@@ -19,7 +19,7 @@ podcasts:
 |         |             |
 |         |             |
 
-## Structural patterns
+## Structural patterns (TBD)
 
 podcasts:
 
