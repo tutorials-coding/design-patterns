@@ -4,6 +4,11 @@
   "description": "Examples of Design Patterns",
   "main": "index.js",
   "scripts": {
+    "strategy": "node ./behavioral/strategy",
+    "template-method": "node ./behavioral/template-method",
+    "mediator": "node ./behavioral/mediator",
+    "observer": "node ./behavioral/observer",
+    "command": "node ./behavioral/command",
     "state": "node ./behavioral/state",
     "visitor": "node ./behavioral/visitor",
     "iterator": "node ./behavioral/iterator",
