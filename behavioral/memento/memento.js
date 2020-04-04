@@ -40,11 +40,11 @@ class Originator {
     return this._state
   }
 
-  saveState() {
+  createMemento() {
     return new Memento(this._state)
   }
 
-  restoreState(memento) {
+  setMemento(memento) {
     if (memento instanceof Memento) {
       this._state = memento.getState()
     }
