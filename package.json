@@ -13,7 +13,7 @@
     "state": "node ./behavioral/state",
     "visitor": "node ./behavioral/visitor",
     "iterator": "node ./behavioral/iterator",
-    "interpretator": "node ./behavioral/interpretator",
+    "interpreter": "node ./behavioral/interpreter",
     "memento": "node ./behavioral/memento"
   },
   "repository": {
