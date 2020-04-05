@@ -2,7 +2,7 @@
 
 ## Behavioral patterns
 
-podcasts: [Part 1](https://youtu.be/oFNCMee50Cg)
+podcasts: [Part 1](https://youtu.be/oFNCMee50Cg), [Part 2](https://youtu.be/ctxR48d_W0Q)
 
 | Pattern                                               | Run example               |
 | ----------------------------------------------------- | ------------------------- |
