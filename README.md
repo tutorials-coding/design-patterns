@@ -11,6 +11,7 @@ podcasts: [Part 1](https://youtu.be/oFNCMee50Cg)
 | [Mediator (TBD)](./behavioral/mediator)               | `npm run mediator`        |
 | [Observer (TBD)](./behavioral/observer)               | `npm run observer`        |
 | [Command (TBD)](./behavioral/command)                 | `npm run command`         |
+| [Chain of Responsibility (TBD)](./behavioral/chain)   | `npm run chain`           |
 | [State](./behavioral/state)                           | `npm run state`           |
 | [Visitor](./behavioral/visitor)                       | `npm run visitor`         |
 | [Iterator](./behavioral/iterator)                     | `npm run iterator`        |

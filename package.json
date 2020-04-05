@@ -9,6 +9,7 @@
     "mediator": "node ./behavioral/mediator",
     "observer": "node ./behavioral/observer",
     "command": "node ./behavioral/command",
+    "chain": "node ./behavioral/chain",
     "state": "node ./behavioral/state",
     "visitor": "node ./behavioral/visitor",
     "iterator": "node ./behavioral/iterator",
