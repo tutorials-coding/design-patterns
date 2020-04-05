@@ -15,7 +15,7 @@ podcasts: [Part 1](https://youtu.be/oFNCMee50Cg), [Part 2](https://youtu.be/ctxR
 | [State](./behavioral/state)                           | `npm run state`           |
 | [Visitor](./behavioral/visitor)                       | `npm run visitor`         |
 | [Iterator](./behavioral/iterator)                     | `npm run iterator`        |
-| [interpreter](./behavioral/interpreter)               | `npm run interpreter`     |
+| [Interpreter](./behavioral/interpreter)               | `npm run interpreter`     |
 | [Memento](./behavioral/memento)                       | `npm run memento`         |
 
 ## Creational patterns (TBD)
